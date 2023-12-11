@@ -3,7 +3,7 @@
 A Python program for managing a dictionary list of animals in a zoo.
 
 ## Start the program
-```py zoo.py``` to start the program.
+Open zoo.py to start the program (or ```py zoo.py``` in VSC terminal) 
 
 ## Features
 * Display all animals
